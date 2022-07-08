@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Outfit',sans-serif;
+    background: lightseagreen;
+
+}
+header{
+    display: flex;
+    width: 90%;
+    background: lightseagreen;
+    margin: auto;
+    height: 650px;
+    align-items: center;
+justify-content: space-between;
+}
+.text-header h1{
+    font-size: 60px;
+}
